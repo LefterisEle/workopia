@@ -1,0 +1,20 @@
+{
+    "name": "lefterisele/workopia",
+    "description": "Job listing application",
+    "authors": [
+        {
+            "name": "Eleftherios Eleftheriadis",
+            "email": "lefteriselefte@gmail.com"
+        },
+        {
+            "name": "Brad Traversy",
+            "email": "support@traversymedia.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
